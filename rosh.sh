@@ -1,3 +1,3 @@
 #! /bin/bash
-date
-cal 2018
+sudo mkdir jenkins
+
